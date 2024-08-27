@@ -5,7 +5,7 @@
 bun add openapi-ofetch
 ```
 ## 使用
-```
+
 先使用 https://github.com/openapi-ts/openapi-typescript 生成schema.d.ts，其余见下面例子
 
 ## 例子
